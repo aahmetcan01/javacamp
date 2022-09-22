@@ -1,2 +1,2 @@
 # javacamp
-I want to learn Spring so i am writing some java repostories.
+I want to learn Spring so i am writing some java codes.
